@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app component tests 1`] = `
+<h1
+  class="app"
+>
+  Hello world!!!
+</h1>
+`;
+
+exports[`app component tests 2`] = `
+<h2>
+  Just perfect!!
+</h2>
+`;
+
+exports[`app component tests 3`] = `
+<h3>
+  Good!
+</h3>
+`;
